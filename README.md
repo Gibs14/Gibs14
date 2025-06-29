@@ -11,6 +11,8 @@
 - Java/Kotlin<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
 - Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
 - C++ (Competitive)<img align="left" alt="ruby" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
+- Go (Backend)<img align="left" alt="ruby" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg"/>
+- Javascript (Web)<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 - Python<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
 ## Connect
