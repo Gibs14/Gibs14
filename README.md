@@ -1,4 +1,4 @@
-# Hello everyone! I'm Gibran Shevaldo - [Know More About Me][website]
+# Hello everyone! I'm Gibran Shevaldo - [About Me][website]
 
 ## Mobile Developer and a Lifelong Learner!
 - 📱 I'm currently working at Apple Developer Academy as iOS Developer.
