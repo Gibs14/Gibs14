@@ -21,7 +21,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## GitHub Stats
-[![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gibs14&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github)](https://github.com/gibs14)
+[![Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gibs14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/gibs14)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibs14&layout=compact&theme=dracula&hide_border=true)](https://github.com/gibs14)
 
 ## Connect
